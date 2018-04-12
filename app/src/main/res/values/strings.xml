@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VideoGameLibrary</string>
+    <string name="add_game">add game</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_game_title_here">Enter Game Title Here</string>
+    <string name="enter_game_genre_here">Enter Game Genre Here</string>
+</resources>
