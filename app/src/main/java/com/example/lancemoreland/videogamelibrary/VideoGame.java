@@ -26,6 +26,8 @@ public class VideoGame {
         return id;
     }
 
+    public void setId() { this.id = id; }
+
     public String getGameTitle() {
         return gameTitle;
     }
